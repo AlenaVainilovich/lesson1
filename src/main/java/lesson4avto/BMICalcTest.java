@@ -8,6 +8,10 @@ import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 import static org.testng.Assert.*;
 
+/**
+ * @author tamika
+ */
+
 public class BMICalcTest {
     @Test
     public void calcTest(){
